@@ -113,4 +113,4 @@ export class FileReaderComponent {
 
 ## Author
 
-animesh.rawat20@gmail.com
+walabouguera996@gmail.com
